@@ -1,0 +1,1 @@
+print([numb for numb in range(1, 1000) if numb % 6 == 0])

@@ -1,0 +1,1 @@
+print([number for number in range(1,1000) if "9" in str(number)])
